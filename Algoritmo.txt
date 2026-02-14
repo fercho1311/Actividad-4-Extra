@@ -1,0 +1,65 @@
+1. Definir el precio base del seguro (Q2,000).
+
+2 Solicitar edad del asegurado.
+
+	2.1La edad del asegurado es ≥ 18?
+		2.1.1 No: mostrar "no aplica (menor de edad)" y finalizar.
+		2.1.2 Si: continuar.
+
+	2.2 La edad del asegurado es ≥ 18 a 24 años?
+		2.2.1 Si: se aplica un recargo del 10% del precio base y continuar.
+		2.2.2 No: continuar al siguiente rango aplicable.
+
+	2.3 La edad del asegurado es ≥ 25 a 49 años?
+		2.3.1 Si: se aplica un recargo del 20% del precio base y continuar.
+		2.3.2 No: continuar al siguiente rango aplicable.
+
+	2.4 La edad del asegurado es de ≥ 50?
+		2.4.1 Si: se aplica un recargo del 30% del precio base y continuar.
+	
+
+3. Preguntar si el asegurado esta casado.
+
+	3.1 Si: Solicitar edad del esposo/a
+	3.2 No: continuar a preguntar si tiene hijos.
+
+
+	3.3 La edad del esposo/a es ≥ 18?
+			3.3.1 No: mostrar "no aplica (menor de edad)" y finalizar.
+			3.3.2 Si: continuar.
+
+	3.4 La edad del esposo/a es ≥ 18 a 24 años?
+			3.4.1 Si: se aplica un recargo del 10% del precio base y continuar.
+			3.4.2 No: continuar al siguiente rango aplicable.
+
+	3.5 La edad del esposo/a es ≥ 25 a 49 años?
+			3.5.1 Si: se aplica un recargo del 20% del precio base y continuar.
+			3.5.2 No: continuar al siguiente rango aplicable.
+
+	3.6 La edad del esposo/a es de ≥ 50?
+			3.6.1 Si: se aplica un recargo del 30% del precio base y continuar.
+
+4. Preguntar si el asegurado tiene hijos.
+
+	4.1 Si: Preguntar cantidad de hijos y aplicar un recargo de 20% por cada uno sobre el precio base y continuar.
+	4.2 No: continuar.
+
+5. Preguntar si el asegurado tiene propiedades.
+	
+	5.1 Si: Preguntar cantidad de propiedades y aplicar un recargo de 35% sobre
+	5.2 No: continuar.
+
+6. Preguntar el salario del asegurado
+	
+	6.1 Aplicar un recargo de 5% sobre el salario
+
+
+7. Mostrar el total de la cotización de seguro.
+
+8. Preguntar si se desea realizar otra cotización.
+
+	Si: Volver a empezar desde el paso 1.
+	No: Terminar.
+
+
+

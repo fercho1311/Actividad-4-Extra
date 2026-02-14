@@ -1,0 +1,1 @@
+Se necesita de un programa para realizar las cotizaciones para la empresa TK-U donde el asegurado debe ser mayor de edad, dependiendo de si la persona está casada con o sin hijos, si tiene propiedades y su salario de esto se aplicaran recargos extras, algunos dependeran de ciertos rangos de edades y de la cantidad de hijos, sobre la cantidad de propiedades y sobre su salario.
