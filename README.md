@@ -5,7 +5,4 @@ Las partes a considerar son que el asegurado tiene que ser mayor de edad al igua
 
 Los problemas a mejorar:
 
--para cada solicitud de datos se repita la pregunta hasta que sea la respuesta correcta.
--mostrar cada recargo que se le realizara para que el cliente tenga claro esos datos.
--mostrar el dato de recargos más el precio base del seguro y luego el total.
--tener más variedad de seguros
+para cada solicitud de datos se repita la pregunta hasta que sea la respuesta correcta, mostrar cada recargo que se le realizara para que el cliente tenga claro esos datos, mostrar el dato de recargos más el precio base del seguro y luego el total, tener más variedad de seguros.
